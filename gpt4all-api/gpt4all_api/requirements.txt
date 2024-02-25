@@ -1,8 +1,8 @@
 aiohttp>=3.6.2
 aiofiles
 pydantic>=1.4.0,<2.0.0
-requests>=2.24.0
-ujson>=2.0.2
+requests>=2.31.0
+ujson>=5.4.0
 fastapi>=0.95.0
 Jinja2>=3.0
 gpt4all>=1.0.0
@@ -10,3 +10,4 @@ pytest
 openai
 black
 isort
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
