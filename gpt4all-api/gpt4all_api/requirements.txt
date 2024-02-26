@@ -1,9 +1,9 @@
-aiohttp>=3.6.2
+aiohttp>=3.9.2
 aiofiles
 pydantic>=1.4.0,<2.0.0
 requests>=2.24.0
 ujson>=2.0.2
-fastapi>=0.95.0
+fastapi>=0.109.1
 Jinja2>=3.0
 gpt4all>=1.0.0
 pytest
