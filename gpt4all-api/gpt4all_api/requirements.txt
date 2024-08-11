@@ -1,4 +1,4 @@
-aiohttp>=3.6.2
+aiohttp>=3.10.2
 aiofiles
 pydantic>=1.4.0,<2.0.0
 requests>=2.24.0
