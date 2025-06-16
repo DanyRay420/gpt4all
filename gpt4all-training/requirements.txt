@@ -13,3 +13,5 @@ jsonlines
 nomic
 scikit-learn
 matplotlib
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
+torch>=2.7.1 # not directly required, pinned by Snyk to avoid a vulnerability
